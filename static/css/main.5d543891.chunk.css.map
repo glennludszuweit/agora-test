@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,UACE,aAAc,CACd,mBACF,CAEA,QACE,WAAY,CACZ,YACF","file":"main.5d543891.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.App-logo {\n  height: 40vmin;\n  pointer-events: none;\n}\n\n.stream {\n  width: 640px;\n  height: 480px;\n}\n"]}
