@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/agora-test/static/css/main.5d543891.chunk.css",
-    "main.js": "/agora-test/static/js/main.843d6ddc.chunk.js",
-    "main.js.map": "/agora-test/static/js/main.843d6ddc.chunk.js.map",
+    "main.js": "/agora-test/static/js/main.277b3f28.chunk.js",
+    "main.js.map": "/agora-test/static/js/main.277b3f28.chunk.js.map",
     "runtime-main.js": "/agora-test/static/js/runtime-main.4acb0f70.js",
     "runtime-main.js.map": "/agora-test/static/js/runtime-main.4acb0f70.js.map",
     "static/js/2.98982add.chunk.js": "/agora-test/static/js/2.98982add.chunk.js",
     "static/js/2.98982add.chunk.js.map": "/agora-test/static/js/2.98982add.chunk.js.map",
     "index.html": "/agora-test/index.html",
-    "precache-manifest.c21a61837923fed6c607f9397056e1ab.js": "/agora-test/precache-manifest.c21a61837923fed6c607f9397056e1ab.js",
+    "precache-manifest.245b5bfe61f1c02522778ac9ba1247c1.js": "/agora-test/precache-manifest.245b5bfe61f1c02522778ac9ba1247c1.js",
     "service-worker.js": "/agora-test/service-worker.js",
     "static/css/main.5d543891.chunk.css.map": "/agora-test/static/css/main.5d543891.chunk.css.map",
     "static/js/2.98982add.chunk.js.LICENSE.txt": "/agora-test/static/js/2.98982add.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4acb0f70.js",
     "static/js/2.98982add.chunk.js",
     "static/css/main.5d543891.chunk.css",
-    "static/js/main.843d6ddc.chunk.js"
+    "static/js/main.277b3f28.chunk.js"
   ]
 }
