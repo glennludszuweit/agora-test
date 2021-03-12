@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "149ec314a0d3c37d5031815a15617929",
+    "revision": "d80a513b43ba3843a34168f6e466e2c0",
     "url": "/agora-test/index.html"
   },
   {
-    "revision": "3b89bbd4576717bd7cd6",
+    "revision": "c2cca038bdf13f49e47b",
     "url": "/agora-test/static/css/main.5d543891.chunk.css"
   },
   {
-    "revision": "6876b2b43aa443250917",
-    "url": "/agora-test/static/js/2.fb824ce0.chunk.js"
+    "revision": "2a98ea2c4991a693321d",
+    "url": "/agora-test/static/js/2.98982add.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/agora-test/static/js/2.fb824ce0.chunk.js.LICENSE.txt"
+    "url": "/agora-test/static/js/2.98982add.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b89bbd4576717bd7cd6",
-    "url": "/agora-test/static/js/main.8518905a.chunk.js"
+    "revision": "c2cca038bdf13f49e47b",
+    "url": "/agora-test/static/js/main.b9c9a1ef.chunk.js"
   },
   {
     "revision": "7aa5e06cc69869390199",
